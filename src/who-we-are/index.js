@@ -8,7 +8,6 @@ import group2 from "../assets/images/Blue-2.png"
 import rightPerson from "../assets/images/Always-pay-the-right-person.webp"
 import tipsDesktop from "../assets/images/Tips_and_Trips_Desktop_UI_Comp_03.webp"
 
-
 const WhoWeAre = ()=>{
    useEffect(()=>{
    
